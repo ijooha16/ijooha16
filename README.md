@@ -1,6 +1,6 @@
 <div align='center'>
 <!-- 헤더 배너 -->
-<img width="800px" src="./assets/git_header_2.gif" />
+<img width="800px" src="./assets/git_header_navy.gif" />
 </div>
 </br>
 <!-- 방문자 기록 / 테크로그 -->
