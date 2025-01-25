@@ -4,7 +4,7 @@
 </br>
 
 <!-- 방문자 기록 / 테크로그 -->
-<div style='display: flex; justify-content: center;'>
+<div align='center' style='display: flex; justify-content: center;'>
 <a href="./assets/tistory.svg">
     <img src="https://img.shields.io/badge/Juha's TechLog-eb531f?style=flat-square&logo=tistory&logoColor=white"/>
 </a>&nbsp;&nbsp;&nbsp;
@@ -16,7 +16,7 @@
 </br>
 </br>
 
-<div style="display: flex; justify-content: center; align-items: center">
+<div align='center' style="display: flex; justify-content: center; align-items: center">
     <img align="center" alt="React" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Js" height="30" width="60" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
