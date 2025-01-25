@@ -1,7 +1,9 @@
+<a href="#">
 <div align='center'>
 <!-- 헤더 배너 -->
 <img width="800px" src="./assets/git_header_navy.gif" />
 </div>
+</a>
 <!-- 방문자 기록 / 테크로그 -->
 <div align='center'>
     <a href="https://ijooha.tistory.com/">
