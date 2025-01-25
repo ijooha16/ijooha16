@@ -1,16 +1,20 @@
+<div align='center'>
 <!-- 헤더 배너 -->
-<img width="800px" src="./assets/git_header.gif" />
-
+<img width="800px" src="./assets/git_header_2.gif" />
+</div>
 </br>
-
 <!-- 방문자 기록 / 테크로그 -->
-<a align='center' href="./assets/tistory.svg">
-    <img src="https://img.shields.io/badge/Juha's TechLog-eb531f?style=flat-square&logo=tistory&logoColor=white"/>
+<a align='center' style='display: flex; justify-content: center;' href="https://ijooha.tistory.com/">
+    <img src="https://img.shields.io/badge/TechLog-eb531f?style=flat-square&logo=tistory&logoColor=white"/>
 </a>
-
+</br>
+</br>
 </br>
 </br>
 
+---
+</br>
+</br>
 <div align='center' style="display: flex; justify-content: center; align-items: center">
     <img align="center" alt="React" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Js" height="30" width="60" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,17 +24,16 @@
     <img align="center" alt="Ps" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
     <img align="center" alt="Blender" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg">
 </div>
-
 </br>
 </br>
-</br>
-
 <div align='center'>
 
 ![gitHubState](https://github-readme-stats.vercel.app/api?username=ijooha16&hide=stars,issues&show_icons=true&theme=dark)
 <!-- 백준허브 -->
 <!-- [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=ijooha)](https://solved.ac/ijooha) -->
 </div>
+
+
 
 <!-- 
 
