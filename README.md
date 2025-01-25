@@ -17,9 +17,9 @@
     <a href="#"><img align="center" alt="Js" height="30" width="60" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
     <a href="#"><img align="center" alt="HTML" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
     <a href="#"><img align="center" alt="CSS" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-    <a href="#"><img align="center" alt="Figma" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /></a>
-    <a href="#"><img align="center" alt="Ps" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"></a>
-    <a href="#"><img align="center" alt="Blender" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg"></a>
+    <a href="#"><img align="center" alt="Figma" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /></a>
+    <a href="#"><img align="center" alt="Ps" height="36" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"></a>
+    <a href="#"><img align="center" alt="Blender" height="36" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg"></a>
 </div>
 </br>
 </br>
