@@ -2,11 +2,10 @@
 <!-- 헤더 배너 -->
 <img width="800px" src="./assets/git_header_navy.gif" />
 </div>
-</br>
 <!-- 방문자 기록 / 테크로그 -->
 <div align='center'>
     <a href="https://ijooha.tistory.com/">
-        <img src="https://img.shields.io/badge/TechLog-eb531f?style=flat-square&logo=tistory&logoColor=white"/>
+        <img width='100px' src="https://img.shields.io/badge/TechLog-eb531f?style=flat-square&logo=tistory&logoColor=white"/>
     </a>
 </div>
 </br>
@@ -14,19 +13,21 @@
 </br>
 </br>
 <div align='center' style="display: flex; justify-content: center; align-items: center">
-    <img align="center" alt="React" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Js" height="30" width="60" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Figma" height="25" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-    <img align="center" alt="Ps" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
-    <img align="center" alt="Blender" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg">
+    <a href="#"><img align="center" alt="React" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
+    <a href="#"><img align="center" alt="Js" height="30" width="60" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+    <a href="#"><img align="center" alt="HTML" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
+    <a href="#"><img align="center" alt="CSS" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+    <a href="#"><img align="center" alt="Figma" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /></a>
+    <a href="#"><img align="center" alt="Ps" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"></a>
+    <a href="#"><img align="center" alt="Blender" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg"></a>
 </div>
 </br>
 </br>
 <div align='center'>
+<a href="#">
 
 ![gitHubState](https://github-readme-stats.vercel.app/api?username=ijooha16&hide=stars,issues&show_icons=true&theme=dark)
+</a>
 <!-- 백준허브 -->
 <!-- [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=ijooha)](https://solved.ac/ijooha) -->
 </div>
