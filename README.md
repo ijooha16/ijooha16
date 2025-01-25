@@ -1,19 +1,22 @@
-<a href="#">
-<div align='center'>
 <!-- 헤더 배너 -->
-<img width="800px" src="./assets/git_header_navy.gif" />
+<div align='center'>
+    <a href="#">
+        <img width="800px" src="./assets/git_header_navy.gif" />
+    </a>
 </div>
-</a>
+
 <!-- 방문자 기록 / 테크로그 -->
 <div align='center'>
     <a href="https://ijooha.tistory.com/">
         <img width='100px' src="https://img.shields.io/badge/TechLog-eb531f?style=flat-square&logo=tistory&logoColor=white"/>
     </a>
 </div>
+
 </br>
 </br>
 </br>
 </br>
+
 <div align='center' style="display: flex; justify-content: center; align-items: center">
     <a href="#"><img align="center" alt="React" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
     <a href="#"><img align="center" alt="Js" height="30" width="60" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
@@ -23,20 +26,23 @@
     <a href="#"><img align="center" alt="Ps" height="36" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"></a>
     <a href="#"><img align="center" alt="Blender" height="36" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg"></a>
 </div>
-</br>
-</br>
-<a href="#">
-<div align='center'>
 
-![gitHubState](https://github-readme-stats.vercel.app/api?username=ijooha16&hide=stars,issues&show_icons=true&theme=dark)
-<!-- 백준허브 -->
-<!-- [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=ijooha)](https://solved.ac/ijooha) -->
+</br>
+</br>
+
+<!-- git stats -->
+<div align='center'>
+    <a href="#">
+        <img src='https://github-readme-stats.vercel.app/api?username=ijooha16&hide=stars,issues&show_icons=true&theme=dark'>
+    </a>
 </div>
-</a>
 
 
 
 <!-- 
+
+백준허브
+[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=ijooha)](https://solved.ac/ijooha)
 
 ![followers](https://img.shields.io/github/followers/ijooha.svg?style=social&label=Follow&maxAge=2592000)
 [![visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fijooha16&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
