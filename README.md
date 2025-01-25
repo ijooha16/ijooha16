@@ -4,15 +4,13 @@
 </div>
 </br>
 <!-- 방문자 기록 / 테크로그 -->
-<a align='center' style='display: flex; justify-content: center;' href="https://ijooha.tistory.com/">
-    <img src="https://img.shields.io/badge/TechLog-eb531f?style=flat-square&logo=tistory&logoColor=white"/>
-</a>
+<div align='center'>
+    <a href="https://ijooha.tistory.com/">
+        <img src="https://img.shields.io/badge/TechLog-eb531f?style=flat-square&logo=tistory&logoColor=white"/>
+    </a>
+</div>
 </br>
 </br>
-</br>
-</br>
-
----
 </br>
 </br>
 <div align='center' style="display: flex; justify-content: center; align-items: center">
