@@ -8,7 +8,10 @@
 <!-- 방문자 기록 / 테크로그 -->
 <div align='center'>
     <a href="https://ijooha.tistory.com/">
-        <img width='100px' src="https://img.shields.io/badge/TechLog-eb531f?style=flat-square&logo=tistory&logoColor=white"/>
+        <img height='30px' src="https://img.shields.io/badge/TechLog-eb531f?style=flat-square&logo=tistory&logoColor=white" style="vertical-align: middle;"/>
+    </a>
+    <a href="https://vercel.com/juha-yoons-projects" style="margin-left: 10px;">
+        <img height='33px' src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white " style="vertical-align: middle;"/>
     </a>
 </div>
 
@@ -36,8 +39,6 @@
         <img src='https://github-readme-stats.vercel.app/api?username=ijooha16&hide=stars,issues&show_icons=true&theme=dark'>
     </a>
 </div>
-
-
 
 <!-- 
 
