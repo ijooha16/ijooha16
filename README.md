@@ -9,10 +9,10 @@
 <div align='center'>
     <a href="https://ijooha.tistory.com/">
         <img height='30px' src="https://img.shields.io/badge/TechLog-eb531f?style=flat&logo=tistory&logoColor=white" style="vertical-align: middle;"/>
-    </a>&nbsp;&nbsp;
-    <a href="https://vercel.com/juha-yoons-projects">
-        <img height='33px' src="https://img.shields.io/badge/Vercel-ffffff?style=flat&logo=vercel&logoColor=black " style="vertical-align: middle;"/>
     </a>
+    <!-- <a href="https://vercel.com/juha-yoons-projects">
+        <img height='33px' src="https://img.shields.io/badge/Vercel-ffffff?style=flat&logo=vercel&logoColor=black " style="vertical-align: middle;"/>
+    </a> -->
 </div>
 
 </br>
